@@ -1,15 +1,15 @@
 <div align="center">
 
-# ⚡ SANSKAR HADOLE ⚡
+# Sanskar Hadole
 
 ### Full-Stack Developer • AI Systems Engineer • Cloud Architect
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+Scalable+AI+%26+Cloud+Systems;Cross-Platform+Mobile+Developer;Real-Time+Architecture+Engineer;Designing+Modern+Digital+Experiences;Focused+on+Performance+%2B+Security+%2B+Innovation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Building+Scalable+AI+%26+Cloud+Systems;Cross-Platform+Mobile+Developer;Real-Time+Architecture+Engineer;Focused+on+Performance+%2B+Security+%2B+Innovation)](https://git.io/typing-svg)
 
 <br/>
 
 <a href="https://sanskar-portfolio-9881.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=firefox&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/sanskarhadole12234">
@@ -17,46 +17,55 @@
 </a>
 
 <a href="mailto:sanskarhadole15@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=sanskar9881&style=for-the-badge&color=0e75b6"/>
-
 </div>
 
 ---
 
 <div align="center">
 
-```yaml
-Full-Stack Development • AI Systems • Cloud Infrastructure •
-Real-Time Platforms • Cross-Platform Mobile Apps •
-Scalable Architecture • Privacy-First Engineering
-```
+Full-stack engineer focused on scalable systems, AI-integrated applications, realtime platforms, cloud infrastructure, and modern cross-platform experiences with strong emphasis on performance, usability, and intelligent architecture.
 
 </div>
 
 ---
 
-# ⚡ Tech Stack
+# Tech Stack
 
 <div align="center">
 
-### 👨‍💻 Languages
-<img src="https://skillicons.dev/icons?i=cpp,cs,java,python,javascript,typescript,kotlin,php,swift,rust,powershell"/>
+### Languages
+<img src="https://skillicons.dev/icons?i=cpp,cs,java,python,javascript,typescript,kotlin,php,swift,rust"/>
 
----
+### Frontend & Mobile
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,flutter,expo,html,css,tailwind,bootstrap"/>
 
-### 🌐 Frontend & Mobile
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,flutter,expo,html,css,tailwind,bootstrap,vite,webpack,jquery,svelte"/>
-
----
-
-### ⚙️ Backend & APIs
+### Backend & APIs
 <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,firebase,supabase"/>
 
-<img src="https://img.shields.io/badge/AdonisJS-220052?style=flat-square&logo=adonisjs&logoColor=white"/>
+### Databases
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite"/>
 
+### Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,cloudflare,vercel,netlify"/>
+
+### AI / ML
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
+
+### Design & Tools
+<img src="https://skillicons.dev/icons?i=figma,blender,photoshop,illustrator,git,github,postman,vscode"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### Building intelligent systems with scale, simplicity, and performance.
+
+</div>
 ---
 
 ### 🗄️ Databases
