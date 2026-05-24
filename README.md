@@ -1,137 +1,207 @@
-# 👋 Hey, I'm Sanskar Hadole
+<div align="center">
 
-### Full-Stack Developer • System Architect • AI & Cloud Enthusiast
+# ⚡ SANSKAR HADOLE ⚡
 
-Experienced in full-stack development, scalable cloud infrastructure, AI-integrated systems, and modern software architecture with a strong focus on building impactful technology that combines performance, usability, security, and intelligent design.
+### Full-Stack Developer • AI Systems Builder • Cloud Architect • Startup Engineer
 
-Currently focused on:
-- AI-powered systems
-- Cross-platform mobile apps
-- Cloud-native infrastructure
-- Real-time platforms
-- Privacy-first architectures
-- Scalable startup products
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Scalable+AI+%26+Cloud+Systems;Cross-Platform+Mobile+Developer;Real-Time+Architecture+Enthusiast;Designing+Modern+Digital+Experiences;Focused+on+Performance+%2B+Security+%2B+Innovation" />
 
----
+<br/>
 
-# 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanskarhadole12234)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanskarhadole15@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=sanskar9881&style=for-the-badge&color=0e75b6)](https://github.com/sanskar9881)
 
-<p align="left">
-  <a href="https://linkedin.com/in/sanskarhadole12234">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  
-  <a href="mailto:sanskarhadole15@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+</div>
 
 ---
 
-# ⚡ Tech Stack
+# 💫 About Me
+
+```yaml
+Name: Sanskar Hadole
+Focus: Full-Stack Development, AI Systems, Cloud Infrastructure
+Specialization:
+  - Scalable Web & Mobile Applications
+  - Real-Time Systems
+  - AI Integrated Platforms
+  - Privacy-First Architecture
+  - Modern UI/UX Experiences
+  - Cloud Native Infrastructure
+
+Currently Building:
+  - Intelligent Systems
+  - Map-Based Social Platforms
+  - AI-Powered Ecosystems
+  - Cross-Platform Mobile Apps
+
+Philosophy:
+  "Build systems that combine intelligence, performance, security, and real-world usability."
+```
+
+---
+
+# 🚀 Tech Arsenal
+
+<div align="center">
 
 ## 👨‍💻 Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,cs,java,python,javascript,typescript,kotlin,php,swift,rust" />
-</p>
+<img src="https://skillicons.dev/icons?i=cpp,cs,java,python,javascript,typescript,kotlin,php,swift,rust,powershell" />
 
 ---
 
 ## 🌐 Frontend Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,bootstrap,html,css,flutter" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,html,css,tailwind,bootstrap,vite,webpack,jquery,svelte" />
 
 ---
 
 ## ⚙️ Backend & APIs
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,flask,firebase,supabase" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,firebase,supabase,adonis" />
+
+---
+
+## 📱 Mobile Development
+
+<img src="https://skillicons.dev/icons?i=react,flutter,expo,kotlin,swift" />
+
+---
+
+## ☁️ Cloud & Deployment
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,cloudflare,vercel,netlify,heroku,firebase,docker,kubernetes" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black"/>
+<img src="https://img.shields.io/badge/Vultr-007BFC?style=flat-square&logo=vultr&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linode-00A95C?style=flat-square&logo=linode&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenStack-EE0000?style=flat-square&logo=openstack&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scaleway-4F0599?style=flat-square&logo=scaleway&logoColor=white"/>
 
 ---
 
 ## 🗄️ Databases
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
-</p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,supabase" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
 
 ---
 
-## ☁️ Cloud & DevOps
+## 🤖 AI / ML / Computer Vision
 
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,cloudflare,vercel,netlify" />
-</p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
 
----
+<br/>
 
-## 📱 Mobile & Cross Platform
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,flutter,expo,kotlin,swift" />
-</p>
-
----
-
-## 🤖 AI / ML
-
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
-</p>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 
 ---
 
 ## 🎨 Design & Creative Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,blender,photoshop,illustrator" />
-</p>
+<img src="https://skillicons.dev/icons?i=figma,blender,photoshop,illustrator" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Adobe_XD-470137?style=flat-square&logo=adobexd&logoColor=FF61F6"/>
+<img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white"/>
+<img src="https://img.shields.io/badge/After_Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lightroom-31A8FF?style=flat-square&logo=adobelightroom&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/SketchUp-005F9E?style=flat-square&logo=sketchup&logoColor=white"/>
 
 ---
 
-## 🛠️ Tools & Workflow
+## 🛠️ Developer Tools & Workflow
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux,npm,pnpm" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux,npm,pnpm" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Jira-0A0FFF?style=flat-square&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/Homebridge-491F59?style=flat-square&logo=homebridge&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens"/>
+<img src="https://img.shields.io/badge/Meta-0467DF?style=flat-square&logo=meta&logoColor=white"/>
+
+---
+
+## 🎮 Graphics / Hardware / Rendering
+
+<img src="https://img.shields.io/badge/NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
+<img src="https://img.shields.io/badge/CUDA-000000?style=flat-square&logo=nvidia&logoColor=green"/>
+<img src="https://img.shields.io/badge/AMD-000000?style=flat-square&logo=amd&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenGL-white?style=flat-square&logo=opengl"/>
+<img src="https://img.shields.io/badge/Three.js-black?style=flat-square&logo=three.js"/>
+<img src="https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white"/>
+
+</div>
 
 ---
 
 # 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanskar9881&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanskar9881&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskar9881&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sanskar9881&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
----
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sanskar9881&theme=tokyonight&hide_border=true&background=0D1117"/>
 
-# 🚀 Current Focus
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskar9881&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-- Building scalable AI-powered applications
-- Real-time systems & map-based platforms
-- Privacy-first architecture design
-- Cross-platform mobile experiences
-- Intelligent automation ecosystems
+</div>
 
 ---
 
-# 📌 Philosophy
+# ⚡ Current Focus
 
-> Build technology that solves real-world problems with simplicity, intelligence, and scalable design.
+<div align="center">
+
+```diff
++ AI-Powered Platforms
++ Real-Time Systems
++ Scalable Cloud Infrastructure
++ Cross-Platform Mobile Apps
++ Intelligent Automation
++ Privacy-First Architectures
++ Modern UI/UX Systems
+```
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sanskar9881&style=flat-square&color=blue" />
-</p>
+# 🧠 Engineering Interests
+
+```txt
+AI Systems • Cloud Architecture • Real-Time Infrastructure •
+Distributed Systems • Mobile Engineering • Product Design •
+Cybersecurity • Scalable Backend Systems • Intelligent Automation
+```
+
+---
+
+# 🚀 Philosophy
+
+<div align="center">
+
+### “Technology should feel intelligent, scalable, secure, and invisible to the user.”
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,100:00D9FF&height=120&section=footer"/>
+
+</div>
