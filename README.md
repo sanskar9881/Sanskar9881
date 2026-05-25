@@ -50,8 +50,11 @@ Full-stack engineer focused on scalable systems, AI-integrated applications, rea
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=sanskar9881&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sanskar9881&theme=tokyonight&hide_border=true&background=0D1117"/>
+
 <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanskar9881&theme=tokyonight"/>
 
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sanskar9881&theme=tokyonight"/>
+
+
 
 </div>
