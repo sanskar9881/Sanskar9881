@@ -11,12 +11,15 @@
 <a href="https://sanskar-portfolio-9881.netlify.app">
 <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
+
 <a href="https://linkedin.com/in/sanskarhadole12234">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="mailto:sanskarhadole15@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 <img src="https://komarev.com/ghpvc/?username=sanskar9881&style=for-the-badge&color=0e75b6"/>
 
 </div>
@@ -45,8 +48,10 @@ Full-stack engineer focused on scalable systems, AI-integrated applications, rea
 
 ## 📊 Development Metrics
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sanskar9881&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sanskar9881&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=sanskar9881&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanskar9881&theme=tokyonight"/>
+
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sanskar9881&theme=tokyonight"/>
 
 </div>
